@@ -410,6 +410,7 @@ body {
     .header--img_nav-desktop > .connect:hover ~ .optionDesktop3 {
         display: inline-block;
     }
+
     .header--img_nav-desktop p:hover > span {
         transform: rotate(180deg);
     }
